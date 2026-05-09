@@ -1,2 +1,11 @@
-# novel-writing-skills-for-agents
-A collection of reusable writing skills for AI agents, focused on novel creation, light novel style writing, worldbuilding, character design, and long-form storytelling.
+# Novel Writing Skills for Agents
+
+这是一个面向 AI Agent 的小说创作 Skill 仓库，旨在为自动化写作助手提供可复用、结构化、可扩展的创作能力。
+
+本仓库包含多个用于小说创作的 Skill，例如轻小说风格写作、世界观设定、人物塑造、剧情大纲设计、章节续写、文本润色等。
+
+## Project Vision
+
+我希望这个项目能够逐渐发展成一个面向 AI Agent 的小说创作能力库。
+
+在未来，它不只是几个简单的提示词文件，而是一个能够支持完整小说创作流程的 Skill 系统。
